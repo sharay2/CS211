@@ -1,0 +1,5 @@
+uic.osm
+LCB
+Taft Hall
+#
+#
