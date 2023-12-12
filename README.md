@@ -8,3 +8,5 @@ walkways to get there.
 
 This project uses a multitude of ADTs and classes, and utilizes Dijkstra's Algorithm to find the walkways to the
 midpoints.
+
+To run, use application.exe.
